@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(228, 228, 228);
+    padding: 0;
+    margin: 0;
+}
+
+#body{
+    padding: 5px;
+    margin: 5px;
+}
+
+header{
+    margin-bottom: 0;
+    font-size: 20px;
+    padding: 10px;
+    background-color: rgb(27, 27, 27);
+}
+
+h2{
+    color: rgb(255, 136, 0);
+    font-family: sans-serif;
+}
+
+h4{
+    font-family: sans-serif;
+    color: rgb(24, 24, 24);
+}
+
+input{
+    width: 20%;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    height: 30px;
+}
+
+#enviar{
+    background-color:rgb(255, 136, 0);
+    color: white;
+    font-weight: 900;
+}
+
+#enviar:hover{
+    background-color:rgb(196, 104, 0);
+    color: white;
+    font-weight: 900;
+}
+
+textarea{
+
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    width: 20%;
+    height: 100px;
+
+}
+
+
+strong{
+    font-family: sans-serif;
+}
